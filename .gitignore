@@ -1,0 +1,19 @@
+# Clés API et secrets
+.env
+*.env
+
+# Environnements virtuels
+venv/
+ai-py310/
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers système
+.DS_Store
+*.log
+
+# Modèles ML compilés
+*.pkl
+*.cpython-*.pyc
+ordres_mission/
