@@ -113,6 +113,6 @@ Security and VLAN intents, physical testbed, online learning, local LLM (Ollama 
 
 ## Authors
 
-**Yannick Wendyaoda Dima** · **Siwar Dridi**
-Supervised by Mme Mariem Kassar, ENIT, 2025-2026.
+ **Siwar Dridi** · **Yannick Wendyaoda Dima**
+
 
