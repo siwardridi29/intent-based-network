@@ -101,7 +101,8 @@ Open **http://localhost:5000** and try:
 - `Applique un bas débit entre le Directeur et le Serveur`
 - `Assure un bas débit sur tout le réseau`
   
-<img width="1227" height="535" alt="Capture d&#39;écran 2026-10-07 185707" src="https://github.com/user-attachments/assets/0b004049-5a25-4a31-837f-ab321d2f599f" />
+  <img width="1225" height="657" alt="Capture d&#39;écran 2026-10-07 190430" src="https://github.com/user-attachments/assets/8a7ec76c-2a4a-4145-80a9-58428e61e542" />
+
 
 
 ## Limitations
