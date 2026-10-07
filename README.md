@@ -100,8 +100,8 @@ Open **http://localhost:5000** and try:
 - `Assure-toi que le serveur reste toujours actif`
 - `Applique un bas débit entre le Directeur et le Serveur`
 - `Assure un bas débit sur tout le réseau`
-- <img width="1312" height="685" alt="Capture d&#39;écran 2026-10-07 185656" src="https://github.com/user-attachments/assets/83b829a3-8a03-483a-afc7-b5f9d3961397" />
-<img width="1655" height="969" alt="Capture d&#39;écran 2026-03-22 040752" src="https://github.com/user-attachments/assets/728a8b40-36a8-448d-81f9-c8816695bc43" />
+  
+<img width="1227" height="535" alt="Capture d&#39;écran 2026-10-07 185707" src="https://github.com/user-attachments/assets/0b004049-5a25-4a31-837f-ab321d2f599f" />
 
 
 ## Limitations
